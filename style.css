@@ -14,7 +14,7 @@ header{
     padding-right: 10px;
 }
 .header-font{
-    font-size: 13px;
+    font-size: .8vw;
     font-family: 'Courier New', Courier, monospace;
     
 }
@@ -46,6 +46,7 @@ img{
     height: 250px;
     margin-top: -125px;
     margin-left: -350px;
+    max-width: 100%;
 }
    .search{
        position: absolute;
